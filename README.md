@@ -39,7 +39,7 @@ AST425-MAIN_WORK/
 ├── requirements.txt
 ├── notebooks/
 ├── figures/
-├── data/
+├── paper
 └── archive/
 
 ```
