@@ -1,1 +1,0 @@
-from scintools.dynspec import *
